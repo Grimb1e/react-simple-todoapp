@@ -1,9 +1,7 @@
-import { TodoList } from "../components/todolist";
+import { TodoList } from "./todolist";
 
 function App() {
-  return (
-    <TodoList />
-  );
+  return <TodoList />;
 }
 
 export default App;

@@ -22,7 +22,7 @@
   },
   "include": [
     "src",
-    "components/todolist.tsx",
+    "src/todolist.tsx",
     "components/contact.tsx",
     "components/navbar.tsx"
   ],
